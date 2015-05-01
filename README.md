@@ -51,7 +51,7 @@ The Indievelopment team will be available to help participants contact venue sec
 We expect all conference participants (sponsors, volunteers, speakers, attendees, and other guests) to abide by this code of conduct at all conference venues and conference-related social events.
 
 ## 7. Contact Information
-Tijn Kersjes, [tijn@indievelopment.nl](tijn@indievelopment.nl)
+Tijn Kersjes, [tijn@indievelopment.nl](tijn@indievelopment.nl) or +316 280 962 93
 
 ## 8. Licence and Attribution
 The original is available at [www.gdconf.com/codeofconduct.html](http://www.gdconf.com/codeofconduct.html) and is released under a Creative Commons Attribution-ShareAlike license.
