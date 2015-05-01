@@ -30,7 +30,7 @@ Anything from the following (non exhaustive) list:
 - Any boisterous, lewd or offensive behaviour or language, including but not limited to using sexually explicit or offensive language, materials or conduct, or any language, behaviour or content that contains profanity, obscene gestures, or racial, religious, gender, or ethnic slurs.
 - Possessing any item that can be used as a weapon, which may cause danger to others if used in a certain manner.
 - Possessing any open can, bottle or other receptacle containing any alcoholic beverages, except in areas specifically designated for the consumption of alcohol. Please drink responsibly.
-- Possessing any illegal substance, including but not limited to narcotics, marijuana, or other illegal drugs. Indievelopment does not tolerate the use or abuse of illegal substances anywhere in the Venue.
+- Possessing any illegal substance.
 - Smoking, except in designated areas.
 - Assembling for the purpose of, or resulting in, disturbing the peace, or committing any unlawful act or engaging in any offensive behaviour.
 - Failure to obey any rules or regulations of the Venue.
