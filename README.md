@@ -1,5 +1,15 @@
 # Indievelopment Code of Conduct
 
+- [Purpose](#purpose)
+- [Expected Behaviour](#expected-behaviour)
+- [Unacceptable Behaviour](#unacceptable-behaviour)
+- [Consequences of Unacceptable Behaviour](#consequences-of-unacceptable-behaviour)
+- [What to Do If You Witness or Are Subject to Unacceptable Behaviour](#what-to-do-if-you-witness-or-are-subject-to-unacceptable-behaviour)
+- [Scope](#scope)
+- [Contact Information](#contact-information)
+- [Licence and Attribution](#licence-and-attribution)
+- [Contribution](#contribution)
+
 ## 1. Purpose
 Indievelopment believes that our community should be truly open for everyone. As such, we are committed to providing a friendly, safe and welcoming environment for all, regardless of ethnicity, disability, gender, religion, beliefs, or sexual orientation.
 
